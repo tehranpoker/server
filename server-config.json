@@ -1,0 +1,14 @@
+{
+  "version": "1.0.1",
+  "server_url": "http://localhost:5001",
+  "backup_servers": [
+    "https://play.tpoker.com",
+    "https://api.tpoker.com"
+  ],
+  "last_updated": "2026-02-18T11:37:00Z",
+  "features": {
+    "auto_update": true,
+    "fallback_enabled": true,
+    "health_check_interval": 60
+  }
+}
